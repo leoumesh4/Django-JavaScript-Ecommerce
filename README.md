@@ -3,17 +3,17 @@ Ecommerce site built using Django and JavaScript on Frontend
 
 #Demo
 
-###Home Page
+### Home Page
 ![](demo/Screenshot_1.png)
 
-###Cart Page
+### Cart Page
 ![](demo/Screenshot_2.png)
 
-###Checkout Page
+### Checkout Page
 ![](demo/Screenshot_3.png)
 
-###Order Tracking
+### Order Tracking
 ![](demo/Screenshot_4.png)
 
-###Order Items Tracking
+### Order Items Tracking
 ![](demo/Screenshot_5.png)
